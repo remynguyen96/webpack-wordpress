@@ -13,6 +13,8 @@ wp-content/plugins/akismet
 wp-content/plugins/themes/twentyfifteen
 wp-content/plugins/themes/twentyseventeen
 wp-content/plugins/themes/twentysixteen
+WebpackWordpress/node_modules
+WebpackWordpress/dist
 node_modules/
 dist/
 /.htaccess
